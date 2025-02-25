@@ -1,13 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Pacifico&family=Sigmar&display=swap');
 #center{
+    
     height: 100vh;
     text-align: center;
     align-content: center;
 }
 
 h1{
-    color: red;
-    font-family: "Pacifico", serif;
+  font-family: "Sigmar", serif;
   font-weight: 400;
   font-style: normal;
 }
